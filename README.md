@@ -1,3 +1,3 @@
 ## 🖼️ Screenshot
 
-![Chessboard UI](./pic.png)
+![Chessboard UI](src/assets/pic.png)
